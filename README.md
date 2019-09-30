@@ -1,4 +1,4 @@
-# ACL 2018 MSR Workshop submission
+# Revisiting the Binary Linearization Technique for Surface Realization (INLG 2019)
 
 Please use the following citation:
 
